@@ -1,6 +1,4 @@
-# scotsecure_2020
-Outcomes of the Community Tracks from Scot-Secure 2020
-
+#Outcomes of the Community Tracks from Scot-Secure 2020
 
 *Agenda (Day 2 - Thursday 20th February 2020)*
 
